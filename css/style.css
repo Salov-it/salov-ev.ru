@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2? family= Raleway:wght@200 & display=swap');
+
+.container-md {
+
+width: 1920px;
+height: 1080px;
+	
+}
+
+.container-sm {
+
+	width: 944px;
+	height: 622px;
+}
+
+.menu {
+
+	width: 275px;
+
+	height: 3447px;
+
+	background-color:  #353541;
+    
+    position: absolute; top: 0px; left: 0px;
+
+}
+
+.foto img {
+
+	position: relative; top: 0px; left: 0px;
+
+	height: 250px;
+
+	width: 275px;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.Home a {
+
+    color:   #fefefe; 
+
+	position: relative; top: 30px; left: 50px;
+
+	font-size: 20px;
+
+
+}
+
+.about-me a {
+
+	color:   #fefefe; 
+
+	position: relative; top: 30px; left: 50px;
+
+	font-size: 20px;
+}
+
+.portfolio a {
+
+	color:   #fefefe; 
+
+	position: relative; top: 35px; left: 50px;
+	font-size: 20px;
+}
+
+.contacts a {
+
+	color:   #fefefe; 
+
+	position: relative; top: 40px; left: 50px;
+
+	font-size: 20px;
+}
+
+.fon img {
+
+	position: relative; top: 0px; left: 160px;
+
+	width: 1240px;
+	height: 400px;
+}
+
+.line {
+
+     width: 275px;
+     height: 2px;
+
+     background-color: #242431;
+
+     position: relative; top: -165px; left: -0px;
+
+}
+
+.line2 {
+
+     width: 275px;
+     height: 2px;
+
+     background-color: #242431;
+
+     position: relative; top: -120px;
+
+}
+
+.line3 {
+
+     width: 275px;
+     height: 2px;
+
+     background-color: #242431;
+
+     position: relative; top: -70px;
+
+}
+
+.line4 {
+
+     width: 275px;
+     height: 2px;
+
+     background-color: #242431;
+
+     position: relative; top: -20px;
+
+}
+
+.line5 {
+
+     width: 275px;
+     height: 2px;
+
+     background-color: #242431;
+
+  position: relative; top: 30px;
+
+}
+
+.info1 h5 {
+
+	position: absolute; top: 30px; left: 450px;
+
+	color: #ffffff;
+
+	font-size: 60px;
+}
+
+
+.Programmer p {
+
+	position: absolute; top: 45px; left: 1200px;
+
+	color: #ffffff;
+
+	font-size: 30px;
+}
+
+/*контент*/
+
+.about-me2 h4 {
+
+     position: relative; top: 30px; left: 115px;
+
+     color: #3e3e3e;
+
+     font-size: 30px;
+
+}
+
+.about-me-line {
+
+	position: absolute; top: 470px; left: 460px;
+
+     background-color: #fb6470;
+
+     width: 50px;
+     height: 3px;
+}
+
+.about-me2 p {
+
+	position: relative; top: 50px; left: 115px;
+
+     color: #adadad;
+}
+
+.contacts2 h4 {
+      
+      position: relative; top: 20px; left: -35px;
+
+      font-size: 20px;
+
+      color: #3e3e3e;
+}
+
+.contacts2 h5 {
+
+	position: relative; top: -10px; left: 80px;
+
+	color: #707070;
+
+	font-size: 20px;
+
+	
+}
+
+.text-fon {
+    
+     width: 550px;
+     height: 250px;
+
+     background-color: #f9f9f9;
+
+     position: relative; top: 40px; left: 155px;
+
+}
+
+.about-me-line2 {
+     
+    width: 550px;
+	height: 1px;
+
+	background-color: #e0e0e0;
+
+	position: absolute; top: 50px; left: 1px;
+}
+
+.about-me-line3 {
+
+         width: 550px;
+	height: 1px;
+
+	background-color: #e0e0e0;
+
+	position: absolute; top: 110px; left: 1px;
+}
+
+.about-me-line4 {
+       
+       width: 550px;
+	height: 1px;
+
+	background-color: #e0e0e0;
+
+	position: absolute; top: 180px; left: 1px;
+      
+}
+
+
+.foto2 img {
+
+	position: absolute; top: 430px; left: 1100px;
+
+	width: 319px;
+	height: 400px;
+
+}
+
+/*Низ сайта*/
+
+.bottom {
+
+	width: 1248px;
+	height: 70px;
+
+	background-color: #353541;
+
+	position: absolute; top: 900px; left: 270px;
+}
+
+
+
